@@ -1,6 +1,6 @@
 # Moving Bones From Armature To Armature  
   
-> Note needs latest cats plugin 0.1.9.0
+> Note needs latest cats plugin 0.1.9.0 and blender 3.4.1
 
 To move bones from armature to armature  
 - pre remove any un-needed bones and meshes from base (example was adding an cyber arm)
